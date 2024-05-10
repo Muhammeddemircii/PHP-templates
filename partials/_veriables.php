@@ -1,0 +1,1 @@
+<?php $urunler= array("Samsung s24", "Samsung s25"); ?>
